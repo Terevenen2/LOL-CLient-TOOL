@@ -15,9 +15,7 @@
  - Auto swap with bench in ARAM
  - Auto honor allie with best KDA
  - Auto accept match
- - Change status to online, offline or mobile (partially work)
  - Auto play again (work sometime)
- - Auto message when joining champ select
  - Auto preffered role in lobby
  - Auto reroll when possible
  - Auto skin when none selected
@@ -36,7 +34,6 @@
  - Updater
 
 ## TODO MAYBE
- - Allow fast account swap
  - Making runes pages directly in the tool
  - Tidy the mess
 
