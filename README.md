@@ -1,4 +1,4 @@
-# WARNING RIOT HAS STARTED BANNING ACCOUNT USING VARIOUS TOOLS AND WETHER IF USING THIS ONE COULD RESULT IN A BAN IS UNCLEAR (USE AT YOUR OWN RISK)
+# DON'T USE THIS TOOL AS IT MIGHT RESULT IN A BAN IF RIOT FEELS LIKE IT
 # LOL-Client-TOOL automations for league of legends client
 <p align="center"><img src="https://user-images.githubusercontent.com/21199858/166489461-f28fbae9-b620-474e-9fc6-7a58566e584b.png" width="150"></p>
 
